@@ -25,4 +25,4 @@ Ace Arcade Missiles is a complete code and effects package for creating arcade s
 ## Manual
 ![screenshot](./Screenshots/manual.png)
 
-The full manual can be found in the [Assets/AceArcadeMissiles/Documentation](Assets/AceArcadeMissiles/Documentation/Manual.pdf) folder.
+The full manual can be found [here](Assets/AceArcadeMissiles/Documentation/Manual.pdf) or in the AceArcadeMissiles/Documentation/ folder of the downloaded package.
