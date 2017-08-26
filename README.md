@@ -20,5 +20,5 @@ Ace Arcade Missiles is a complete code and effects package for creating arcade s
 
 See manual in the Assets/AceArcadeMissiles/Docdocumentation folder for much more in depth information.
 
-##Download
+## Download
 [Both the playable demo and standalone package can be found on the Releases page](https://github.com/brihernandez/AceArcadeMissiles/releases/)**
