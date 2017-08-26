@@ -5,6 +5,10 @@ Arcade style missile code, effect, and sound pack.
 ![gif](./Screenshots/delay.gif)
 ![gif](./Screenshots/rockets.gif)
 
+## Download
+**[Both the playable demo and standalone package can be found on the Releases page](https://github.com/brihernandez/AceArcadeMissiles/releases/)**
+
+## Features
 Ace Arcade Missiles is a complete code and effects package for creating arcade style missiles.
 - Detailed documentation for reference
 - Two kinds of guidance: Pure pursuit and Lead
@@ -18,7 +22,4 @@ Ace Arcade Missiles is a complete code and effects package for creating arcade s
 - Hardpoints can carry missiles externally, while pods launch from user defined tubes with reloadable magazines
 - Pack includes example effects for particle and ribbon trails, basic sound effects, and explosions
 
-See manual in the Assets/AceArcadeMissiles/Docdocumentation folder for much more in depth information.
-
-## Download
-### [Both the playable demo and standalone package can be found on the Releases page](https://github.com/brihernandez/AceArcadeMissiles/releases/)
+See manual in the Assets/AceArcadeMissiles/Docdocumentation folder for much more in depth information
