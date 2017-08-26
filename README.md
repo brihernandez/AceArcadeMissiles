@@ -18,4 +18,4 @@ Ace Arcade Missiles is a complete code and effects package for creating arcade s
 - Hardpoints can carry missiles externally, while pods launch from user defined tubes with reloadable magazines
 - Pack includes example effects for particle and ribbon trails, basic sound effects, and explosions
 
-See [manual in the documentation folder](./Assets/AceArcadeMissiles/Documentation/Ace Arcade Missiles Manual.pdf) for in depth documentation.
+See [manual in the documentation folder]("./Assets/AceArcadeMissiles/Documentation/Ace Arcade Missiles Manual.pdf") for in depth documentation.
