@@ -1,9 +1,9 @@
 # AceArcadeMissiles
 Arcade style missile code, effect, and sound pack.
 
-![gif](http://i.imgur.com/tHBEC2M.mp4)
-![gif](http://i.imgur.com/5jjPVjR.mp4)
-![gif](http://i.imgur.com/xWj7EOg.mp4)
+![gif](./Screenshots/missile.gif)
+![gif](./Screenshots/delay.gif)
+![gif](./Screenshots/rockets.gif)
 
 Ace Arcade Missiles is a complete code and effects package for creating arcade style missiles.
 - Detailed documentation for reference
