@@ -18,3 +18,9 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Several sounds cropped and edited from "Rocket Launch.mp3" by mensageirocs
+https://freesound.org/people/mensageirocs/sounds/232680/
+
+Licensed under Creative Commons Attribution 3.0 Unported
+http://creativecommons.org/licenses/by/3.0/
